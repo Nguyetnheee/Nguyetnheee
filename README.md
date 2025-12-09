@@ -65,18 +65,4 @@
 ### Tools & IDEs
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 ---
-## Featured Projects
 
-<div align="center">
-
-  <a href="https://github.com/Nguyetnheee/Nhac-Nho-Viet-Project-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyetnheee&repo=Nhac-Nho-Viet-Project-frontend&theme=dracula&show_owner=true" />
-  </a>
-
-  <br/> <br/>
-
-  <a href="https://github.com/Nguyetnheee/insurance-eda-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyetnheee&repo=insurance-eda-project&theme=dracula&show_owner=true" />
-  </a>
-
-</div>
