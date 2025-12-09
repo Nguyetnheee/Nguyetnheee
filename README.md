@@ -7,9 +7,11 @@
   </p>
 
   <p>
-    
-  <a href="thnn16102005@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://www.facebook.com/nguyet.nhi.287694" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-CONTACT-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:nhithn6101@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-WORK-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   </p>
   </div>
