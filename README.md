@@ -30,7 +30,6 @@
 * 🎯 **Career Goal:** To become a **Data Analyst** capable of **uncovering trends** and **driving strategies** through data storytelling.
 * ⚡ **Fun Facts:**
     * 📽️ I love making vlogs to record memorable moments of my journey.
-    * 🪄 A huge fan of Harry Potter novel.
     * ♟️ Playing chess is the way I practice my focus and logical thinking.
     * 🐱 I’m a huge cat lover, though I haven't had the chance to adopt one just yet.
 
